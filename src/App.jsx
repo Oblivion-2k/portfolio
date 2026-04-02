@@ -82,7 +82,7 @@ className="px-3 py-1 rounded bg-gray-700 text-white hover:bg-gray-600"
   sequence={[
     "AI-ML Enthusiast",
     2000,
-    "Deep Learning Researcher",
+    "Deep Learning Explorer",
     2000,
     "Full Stack Developer",
     2000,
